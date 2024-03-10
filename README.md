@@ -1,8 +1,14 @@
-# React + Vite
+# Log 31 (Duration: 2/6 Months)
+Today, I tried to create a simple website using the basic knowledge I obtained on react. I tried implement the following- 
+i) Load Countries API Using UseEffect
+ii) Toggle State Based On Click And Conditional Rending
+iii) Updating State In Arrays And Pass Parameter
+iv) Prop Drilling, Pass Props In Multi Level
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Links
 
-Currently, two official plugins are available:
+Practice Task:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Netlify- https://luminous-gecko-e06525.netlify.app/
+
+Surge- https://smiling-cook.surge.sh/
