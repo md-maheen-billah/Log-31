@@ -1,0 +1,18 @@
+.country-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.flag-container img {
+  width: 50px;
+  display: flex;
+}
+.flag-container {
+  display: flex;
+  gap: 10px;
+}
+.visited-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
